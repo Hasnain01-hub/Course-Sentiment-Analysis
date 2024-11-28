@@ -1,4 +1,4 @@
-# Sentiment Analysis for Course Recommendation
+# Sentiment Analysis - Course Recommendation
 
 ## Description
 
