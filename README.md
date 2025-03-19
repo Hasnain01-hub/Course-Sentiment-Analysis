@@ -25,4 +25,4 @@ The "Sentiment Analysis for Course Recommendation" project leverages web scrapin
 
 | <img src="working/home.png" > | <img src="working/platform.png"> | <img src="working/coursera.png" > | <img src="working/compare-course.png"> |
 | :---------------------------: | :------------------------------: | :-------------------------------: | :------------------------------------: |
-|           HomePage            |           Input Course           |         Course Sentiment          |            Compare courses             |
+|           HomePage            |           Course Input           |         Course Sentiment          |            Compare courses             |
